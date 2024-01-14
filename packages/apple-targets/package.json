@@ -28,14 +28,15 @@
   "author": "Evan Bacon",
   "license": "MIT",
   "dependencies": {
-    "glob": "^10.2.6",
     "@bacons/xcode": "^1.0.0-alpha.9",
-    "fs-extra": "^11.2.0"
+    "fs-extra": "^11.2.0",
+    "glob": "^10.2.6"
   },
   "devDependencies": {
+    "@expo/babel-preset-cli": "^0.3.1",
     "@types/fs-extra": "^11.0.4",
     "@types/glob": "^8.1.0",
-    "@expo/babel-preset-cli": "^0.3.1",
     "jest-environment-node": "^26"
-  }
+  },
+  "gitHead": "34d1d8fbae8368a24c326e3e8c3f9ac465bc1358"
 }
