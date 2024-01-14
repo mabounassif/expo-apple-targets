@@ -1,6 +1,6 @@
 {
   "name": "@mabounassif/apple-targets",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generate Apple Targets with Expo Prebuild",
   "main": "build/index.js",
   "files": [
