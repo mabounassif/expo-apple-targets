@@ -1,6 +1,6 @@
 {
   "name": "@mabounassif/apple-targets",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Generate Apple Targets with Expo Prebuild",
   "main": "build/index.js",
   "files": [
@@ -38,5 +38,5 @@
     "@types/glob": "^8.1.0",
     "jest-environment-node": "^26"
   },
-  "gitHead": "34d1d8fbae8368a24c326e3e8c3f9ac465bc1358"
+  "gitHead": "a805ce5a3d8305d900ae68cd19afb0bdcdb24fb2"
 }
